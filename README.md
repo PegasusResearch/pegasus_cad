@@ -1,6 +1,16 @@
 # Pegasus CAD Model V1.0.0
 
-This repository contains the CAD model of the Pegasus quadrotor. The model was designed using Onshape and is available in the following formats:
+This repository contains the CAD model of the Pegasus quadrotor. The model was designed using Onshape and is available in step and stl formats. The model is composed of the following parts:
+* 4x Motor Arms
+* A bottom base for electronics (4in1 ESC and Flight Controller)
+* A bottom base for the onboard computer (Jetson Orin Nano Dev Kit)
+* The top shell of the computer
+* The feet which hold the battery and an Intel Realsense d435i camera
+
+<p float="left" align="center">
+  <img src="docs/_static/full_assembly.png" width="600" align="center"/> 
+</p>
+
 
 ## Developer Team for V1.0.0
 * [Marcelo Jacinto](https://github.com/MarceloJacinto)
