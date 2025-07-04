@@ -10,15 +10,20 @@ There are two models available:
   <img src="docs/_static/full_assembly_v2.png" width="600" align="center"/> 
 </p>
 
+  * Developer Team:
+    
+    * Project Founder and drone frame designer: [Marcelo Jacinto](https://github.com/MarceloJacinto)
+    * New Jetson Slim Case Design: [Luís Abrantes](https://github.com/abrantessss)  
+    * Drone Support Feet [Rodrigo Gomes](https://github.com/rodrigofpgomes)  
+
+
 - **Version 1 (2023-2024):** The first version of the Pegasus quadrotor. This version has a full 3D printed frame without requiring any expensive carbon fiber parts. It was developed to be a low-cost platform for research and education.
 
 <p float="left" align="center">
   <img src="docs/_static/full_assembly.png" width="600" align="center"/> 
 </p>
 
-
-## Developer Team
-* [Marcelo Jacinto](https://github.com/MarceloJacinto)
+* Developer Team: [Marcelo Jacinto](https://github.com/MarceloJacinto)
 
 ## Documentation
 The documentation for the Pegasus CAD model is available [here](https://pegasusresearch.github.io/pegasus/source/vehicles/pegasus/pegasus.html).
